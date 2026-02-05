@@ -1,1 +1,7 @@
-{\rtf1}
+i worked on a project relating to beetle horn allometry and i found one of those old papers and i found a dataset in their supplementary files i think will work for this classes final project. 
+
+the paper is here https://doi.org/10.1016/j.cub.2023.08.066 and the dataset is comparing beetle sample location to body size to horn length, thereby ginving us allometry. 
+
+my idea for the project is to take this dataset and make a bunch of graphs that compare the location of the sample to the allometry of the horns to see if i cant find a trend that looks nice. 
+
+the data is just an xml file and it just has numbers and names of places inside, i have the file downloaded on my pc but heres the OSF link to download it https://osf.io/dczfx/files/5vscp .
